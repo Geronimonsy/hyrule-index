@@ -42,3 +42,10 @@ Hyrule Index is an unofficial, fan-made project. It is not affiliated with, endo
 The Legend of Zelda, Majora's Mask, and all related characters, names, artwork, music and other intellectual property belong to Nintendo and their respective rights holders.
 
 Hyrule Index does not claim ownership of Nintendo's intellectual property. All trademarks and copyrighted material belong to their respective owners.
+
+## Screenshots
+<img width="200" alt="Screenshot_20261119_114502_com_example_hyrule_index_MainActivity" src="https://github.com/user-attachments/assets/561ed30b-d26a-4048-a36b-98aa9f431aec" />
+<img width="200" alt="Screenshot_20261119_114522_com_example_hyrule_index_MainActivity" src="https://github.com/user-attachments/assets/643db463-ee92-4aa8-b114-a30aff978a20" />
+<img width="200" alt="Screenshot_20261119_114543_com_example_hyrule_index_MainActivity" src="https://github.com/user-attachments/assets/6509bdb1-7afc-425f-8d31-e8ca2b85545d" />
+<img width="200" alt="Screenshot_20261119_114551_com_example_hyrule_index_MainActivity" src="https://github.com/user-attachments/assets/48cbc216-843b-4f04-b676-452e9123f244" />
+<img width="200" alt="Screenshot_20261119_114646_com_example_hyrule_index_MainActivity" src="https://github.com/user-attachments/assets/f17dc261-170c-4dcd-8fec-fc0d4799e0fe" />
