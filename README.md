@@ -2,9 +2,9 @@
 
 A companion app for Zelda games that helps you manually keep track of your progress.
 
-Hyrule Index is a fan-made project based on a really old app that inst available any more, i was sad when i couldn’t get the app on newer phones so i set out to make a version of it myself 
+Hyrule Index is a fan-made project based on a really old app that inst available any more, I was sad when I couldn’t get the app on newer phones so I set out to make a version of it myself 
 
-its a simple item/collectables tracker for Zelda games, with extra features planned in future versions of the app, the only game available so far is Majora's mask, simply because the old app this is inspired by, was just for majora's mask, so i thought id start with that one, as i had a rough idea of what i wanted out of it
+Its a simple item/collectables tracker for Zelda games, with extra features planned in future versions of the app, the only game available so far is Majora's mask, simply because the old app this is inspired by, was just for majora's mask, so I thought id start with that one, as I had a rough idea of what I wanted out of it.
 
 
 Some of the features include:
@@ -20,17 +20,17 @@ The plan is to slowly expand Hyrule Index to cover more Zelda games over time, s
 
 I'd love to eventually include almost the entire series, with the exception of the Wild Era games.
 
-i am just one guy, so i work on this in my spare time, i also plan to add a full hints and tips system which will be in a future update.
+I am just one guy, so I work on this in my spare time, I also plan to add a full hints and tips system which will be in a future update.
 
 ## Development
 
-Hyrule Index is built using Flutter and Dart. i built the app myself as someone who knows nothing about coding, so i did have ChatGPT help teach me and built the app step by step with its help, this was NOT a vibe-coded app, im not that lazy
-i believe AI should be used as a tool and not a replacement. generative AI and vibe coded apps is a big no no for me.
+Hyrule Index is built using Flutter and Dart. I built the app myself as someone who knows nothing about coding, so I did have ChatGPT help teach me, and built the app step by step with its help, this was NOT a vibe-coded app. I'm not that lazy.
+I believe AI should be used as a tool and not a replacement. generative AI and vibe coded apps is a big no no for me.
 
 ## Credits & Thanks
 
-- **Nerrel** – 98% of the art assets used in this app have come from Nerrel's MMHD Texture pack, they have given me permission to use the assets in this project. i asked directly and was given permission to use the assets in this app
-i highly recommend the texture pack if you play Majora's Mask on PC, its the one i always use
+- **Nerrel** – 98% of the art assets used in this app have come from Nerrel's MMHD Texture pack, they have given me permission to use the assets in this project. I asked directly and was given permission to use the assets in this app
+I highly recommend the texture pack if you play Majora's Mask on PC, its the one i always use
 
 https://nerrel.com/mmhd/
 
