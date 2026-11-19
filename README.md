@@ -22,7 +22,7 @@ I'd love to eventually include almost the entire series, with the exception of t
 
 i am just one guy, so i work on this in my spare time, i also plan to add a full hints and tips system which will be in a future update.
 
-## 🛠️ Development
+## Development
 
 Hyrule Index is built using Flutter and Dart.
 
@@ -34,7 +34,7 @@ i highly recommend the texture pack if you play Majora's Mask on PC, its the one
 https://nerrel.com/mmhd/
 
 
-## ⚖️ Legal Disclaimer
+##  Legal Disclaimer
 
 Hyrule Index is an unofficial, fan-made project. It is not affiliated with, endorsed by, sponsored by or associated with Nintendo.
 
