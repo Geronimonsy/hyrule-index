@@ -25,7 +25,7 @@ I am just one guy, so I work on this in my spare time, I also plan to add a full
 ## Development
 
 Hyrule Index is built using Flutter and Dart. I built the app myself as someone who knows nothing about coding, so I did have ChatGPT help teach me, and built the app step by step with its help, this was NOT a vibe-coded app. I'm not that lazy.
-I believe AI should be used as a tool and not a replacement. generative AI and vibe coded apps is a big no no for me.
+I believe AI should be used as a tool, not a replacement for learning and doing the work yourself. Generative AI and vibe-coded apps are a big no-no for me.
 
 ## Credits & Thanks
 
