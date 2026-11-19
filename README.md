@@ -34,7 +34,7 @@ I believe AI should be used as a tool, not a replacement for learning and doing 
 - **Nerrel** – 98% of the art assets used in this app have come from Nerrel's MMHD Texture pack, they have given me permission to use the assets in this project. I asked directly and was given permission to use the assets in this app
 I highly recommend the texture pack if you play Majora's Mask on PC, its the one i always use
 
-https://nerrel.com/mmhd/
+[Majora's Mask HD Project – Nerrel](https://nerrel.com/mmhd/)
 
 
 ##  Legal Disclaimer
