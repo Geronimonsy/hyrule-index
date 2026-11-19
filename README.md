@@ -14,6 +14,8 @@ Some of the features include:
 - **Song book** – Keep track of the songs you've learned, and check what the notes are.
 - **Scarecrow's Song** – Record and save your own custom Scarecrow's Song.
 
+**[Download Hyrule Index v1.0.0](https://github.com/Geronimonsy/hyrule-index/releases/latest)**
+
 ## What's Next?
 
 The plan is to slowly expand Hyrule Index to cover more Zelda games over time, starting with the 3D games.
