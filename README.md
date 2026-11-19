@@ -16,15 +16,16 @@ Some of the features include:
 
 ## What's Next?
 
-The plan is to slowly expand Hyrule Index to cover more Zelda games over time.
+The plan is to slowly expand Hyrule Index to cover more Zelda games over time, starting with the 3D games.
 
-I'd love to eventually include almost the entire series, with the exception of the Wild Era games. and starting with the 3D games.
+I'd love to eventually include almost the entire series, with the exception of the Wild Era games.
 
 i am just one guy, so i work on this in my spare time, i also plan to add a full hints and tips system which will be in a future update.
 
 ## Development
 
-Hyrule Index is built using Flutter and Dart.
+Hyrule Index is built using Flutter and Dart. i built the app myself as someone who knows nothing about coding, so i did have ChatGPT help teach me and built the app step by step with its help, this was NOT a vibe-coded app, im not that lazy
+i believe AI should be used as a tool and not a replacement. generative AI and vibe coded apps is a big no no for me.
 
 ## Credits & Thanks
 
